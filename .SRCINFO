@@ -1,11 +1,11 @@
 pkgbase = oxen-bin
 	pkgdesc = Oxen CLI. Oxen is a lightning fast data version control system for structured and unstructured machine learning datasets.
-	pkgver = 0.26.0
+	pkgver = 0.33.1
 	pkgrel = 1
 	url = https://www.oxen.ai/
 	arch = x86_64
 	license = Apache-2.0
-	source = https://github.com/Oxen-AI/Oxen/releases/download/v0.26.0/oxen-ubuntu-latest.deb
-	sha256sums = b2243470a96b4ca6f7e48219ac024287ac51d95325ba68128e904ec646729813
+	source = https://github.com/Oxen-AI/Oxen/releases/download/v0.33.1/oxen-ubuntu-latest.deb
+	sha256sums = e9bb473339fd0bae02356b12ebec46d5c9a81cb992fea6d761693345d04ce37a
 
 pkgname = oxen-bin
